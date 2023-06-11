@@ -1,2 +1,2 @@
 # Registration-Form-Page
-Registration Form built with HTML & CCS - FreeCodeCampLearning
+Registration Form built with HTML & CSS - FreeCodeCampLearning
